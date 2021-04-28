@@ -1,0 +1,34 @@
+{
+    "name": "app.wait",
+    "version": "1.0.1",
+    "description": "App.wait это promise обернутый в setTimeout для искусственной задержки через await.",
+    "contributors": [
+        {
+            "name": "Sergei",
+            "email": "classtype@mail.ru"
+        }
+    ],
+    "main": "src/app.wait.js",
+    "homepage": "http://github.com/classtype/app.wait",
+    "repository": {
+        "type": "git",
+        "url": "git://github.com/classtype/app.wait.git"
+    },
+    "bugs": {
+        "url": "http://github.com/classtype/app.wait/issues"
+    },
+    "licenses": [
+        {
+            "type": "MIT",
+            "url": "http://github.com/classtype/app.wait/blob/master/LICENSE"
+        }
+    ],
+    "keywords": [
+        "wait",
+        "await",
+        "async",
+        "promise",
+        "timeout",
+        "setTimeout"
+    ]
+}
